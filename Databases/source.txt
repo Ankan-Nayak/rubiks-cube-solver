@@ -2,3 +2,6 @@ https://medium.com/@benjamin.botto/sequentially-indexing-permutations-a-linear-a
 
 
 https://github.com/benbotto/rubiks-cube-cracker/
+
+
+https://www.youtube.com/watch?v=ZtlMkzix7Bw&ab_channel=BenBotto
