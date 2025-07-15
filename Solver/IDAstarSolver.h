@@ -1,3 +1,6 @@
+// soucre https://medium.com/@benjamin.botto/sequentially-indexing-permutations-a-linear-algorithm-for-computing-lexicographic-rank-a22220ffd6e3
+
+
 #include<bits/stdc++.h>
 #include "../Prototype/RubiksCube.h"
 //#include "../Model/PatternDatabase/PatternDatabase.h"
