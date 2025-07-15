@@ -1,0 +1,4 @@
+https://medium.com/@benjamin.botto/sequentially-indexing-permutations-a-linear-algorithm-for-computing-lexicographic-rank-a22220ffd6e3
+
+
+https://github.com/benbotto/rubiks-cube-cracker/
